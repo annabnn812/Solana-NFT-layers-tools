@@ -3,14 +3,16 @@
 ```sh
 npm install
 ```
+
+
+```sh
+npm run generate
+```
 The program will output all the images in the `build/images` directory along with the metadata files in the `build/json` directory. Each collection will have a `_metadata.json` file that consists of all the metadata in the collection inside the `build/json` directory. The `build/json` folder also will contain all the single json files that represent each image file. 
 
 
 Программа выведет все изображения в каталоге "build/images" вместе с файлами метаданных в каталоге "build/json`. Каждая коллекция будет иметь файл `_metadata.json`, который состоит из всех метаданных коллекции внутри каталога `build/json`. Папка `build/json` также будет содержать все отдельные файлы json, которые представляют каждый файл изображения.
 
-```sh
-npm run generate
-```
 
 ```sh
 node utils/rarity.js  
