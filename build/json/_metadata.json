@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Fortune Cookie Messages #4",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 4,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "River"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 8"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #8",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 8,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 6"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #13",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 13,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Srange"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 2"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #11",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 11,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "River"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 10"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #6",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 6,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 8"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #18",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 18,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "River"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 2"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #20",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 20,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TreeSun"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 5"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #5",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 5,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 3"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #12",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 12,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Srange"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 10"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #16",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 16,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "River"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 5"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #2",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 2,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TreeSun"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 6"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #0",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 0,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Srange"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 3"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #7",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 7,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 2"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #9",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 9,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 7"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #1",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 1,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "River"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 3"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #14",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 14,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Srange"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 1"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #3",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 3,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sakura"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 5"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #10",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 10,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TreeSun"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 3"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #15",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 15,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 9"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fortune Cookie Messages #19",
+    "symbol": "IWSH",
+    "description": "Predictions speacial for you",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.fortunenft.me",
+    "edition": 19,
+    "collection": {
+      "name": "Fortune cookie",
+      "family": "Prediction NFTs"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Srange"
+      },
+      {
+        "trait_type": "Cookie",
+        "value": "cookie"
+      },
+      {
+        "trait_type": "Predictions",
+        "value": "Magic Prediction 8"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FpcvQdKvKJHkjljoNFnp7DHqbjLUv4Yoh7eor9fA4444",
+          "share": 100
+        }
+      ]
+    }
+  }
+]
